@@ -1,3 +1,40 @@
 {
-  "history": []
+  "history": [
+    {
+      "name": "John",
+      "phone": "9587456321",
+      "email": "john@gmail.com",
+      "gender": "Male",
+      "designation": "Manager",
+      "salary": "50000",
+      "id": 2
+    },
+    {
+      "name": "Max",
+      "phone": "1578875544",
+      "email": "max@gmail.com",
+      "gender": "Male",
+      "designation": "Clerk",
+      "salary": "45000",
+      "id": 5
+    },
+    {
+      "name": "Adam",
+      "phone": "5698745612",
+      "email": "adam@gmail.com",
+      "gender": "Female",
+      "designation": "Accountant",
+      "salary": "25000",
+      "id": 6
+    },
+    {
+      "name": "John",
+      "phone": "1524865789",
+      "email": "john@gmail.com",
+      "gender": "Female",
+      "designation": "Clerk",
+      "salary": "56478",
+      "id": 7
+    }
+  ]
 }
